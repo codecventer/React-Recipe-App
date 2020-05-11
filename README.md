@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Recipe App
+
+This app allows the user to search for recipes by using the Edamam Recipe Search API. The app provides a URL to each recipe, displays an image of each dish as well as the necessary ingredients to make each dish.
+
+View my app on Netlify: https://christiaan-venter-recipe-app.netlify.app/
+
+# What I Learned
+
+- Working with React.js
+- Using API's
+
 ## Available Scripts
 
 In the project directory, you can run:
